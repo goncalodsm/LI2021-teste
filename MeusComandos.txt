@@ -1,0 +1,91 @@
+    1  ls
+    2  pwd
+    3  mkdir teste
+    4  pwd
+    5  cd root
+    6  cd /root
+    7  pwd
+    8  cd /teste
+    9  cd teste
+   10  git clone https://github.com/goncalodsm/LI2021-teste
+   11  pwd
+   12  çs
+   13  ls
+   14  mkdir Gonçalo108660
+   15  ls
+   16  rm -r Gonçalo108660
+   17  ls
+   18  cd LI2021-teste
+   19  mkdir Gonçalo108660
+   20  ls
+   21  vi README.md
+   22  git add README.md 
+   23  git status
+   24  git commit -m 2ªtarefa
+   25  git config --global user.name goncalodsm
+   26  git status
+   27  ls
+   28  branch
+   29  git status
+   30  git push origin https://github.com/goncalodsm/LI2021-teste
+   31  git push origin LI2021-teste
+   32  git status
+   33  cd
+   34  cd teste
+   35  pwd
+   36  las
+   37  ls
+   38  cd LI2021-teste/
+   39  CD ..
+   40  cd ..
+   41  touch index.html
+   42  ls
+   43  touch tarefa3.js
+   44  touch tarefa3.css
+   45  ls
+   46  git branch
+   47  ls
+   48  git clone https://github.com/goncalodsm/LI2021-teste.git
+   49  pwd
+   50  ls
+   51  rm -r tarefa3.css
+   52  rm -r tarefa3.js
+   53  ls
+   54  cd li2021-teste
+   55  cd LI2021-teste/
+   56  LS
+   57  ls
+   58  cd
+   59  cd teste
+   60  ls
+   61  git status
+   62  cd
+   63  git clone https://github.com/goncalodsm/LI2021-teste.git
+   64  git status
+   65  cd teste
+   66  ls
+   67  vi index.html 
+   68  git commit -m 3ªtarefa
+   69  cd LI2021-teste/
+   70  touch index.html
+   71  vi index.html
+   72  ls
+   73  git commit -m 3ªtarefa
+   74  goncalodsm
+   75  git config --global usar.name goncalodsm
+   76  git status
+   77  git add index.html 
+   78  git commit -m 3ªtarefa
+   79  git config --global user.name "goncalodsm"
+   80  git status
+   81  ls
+   82  ls
+   83  cp index.html disciplina.html
+   84  ls
+   85  git status
+   86  git add disciplina.html 
+   87  git status
+   88  git commit -m 5ªtarefa
+   89  git config --global user.email goncalo.dsmartins1@gmail.com
+   90  git commit -m 5ªtarefa
+   91  history > MeusComandos.txt
